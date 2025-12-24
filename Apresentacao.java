@@ -1,9 +1,9 @@
 public class Apresentacao {
 
     public static void main(String[] args) {
-        String nome = "Gustavo";  
-        int idade = 18;            
-        String cidade = "SC"; 
+        String nome = "Kevin";  
+        int idade = 24;            
+        String cidade = "Rio dos Cedros"; 
 
         System.out.println("=== APRESENTAÇÃO ===");
         System.out.println("Nome: " + nome);
